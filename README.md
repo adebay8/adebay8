@@ -23,7 +23,6 @@
   <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" >
  <img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="Graphql">
  <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis">
- <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" >
   <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" >
  <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React">
   <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs">
@@ -31,8 +30,7 @@
  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
  <img height="50" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg" alt="webflow">
  <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="">
-  <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss">
- <img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass">
+ <img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify />
 
 ---
 
