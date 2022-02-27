@@ -30,7 +30,7 @@
  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
  <img height="50" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg" alt="webflow">
  <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="">
- <img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify />
+ <img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify" />
 
 ---
 
