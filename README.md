@@ -33,13 +33,13 @@
   <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes"><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
 
 
----
+<!-- ---
 
 <br>
 <a href="https://github.com/adebay8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adebay8&show_icons=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebay8&show_icons=true&hide_border=true&layout=compact" />
-</a>
+</a> -->
 
 ---
 
