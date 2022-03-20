@@ -1,11 +1,5 @@
 ### Hi, I'm Onuchukwu👋 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
-### 👨🏻‍💻 &nbsp;[About Me][website]
-##### I'm an engineering graduate and Software Engineer
+#### I'm an engineering graduate and Software Engineer
 - 💼 Currently building elegant and efficient web applications using React, Vue, Laravel and NodeJs.
 - 📚 Currently learning computer science in-depth at [open-source university](https://github.com/ForrestKnight/open-source-cs).
 - 🤔 Exploring new technologies and software solutions.
