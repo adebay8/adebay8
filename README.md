@@ -52,7 +52,7 @@
 
 <br/>
 
-[website]: https://oluwaponnle.netlify.app
+[website]: https://v1.ponnle.xyz
 [twitter]: https://twitter.com/oluwaponnle
 [linkedin]: https://www.linkedin.com/in/onuchukwu-adebayo/
 [medium]: https://oluwaponnle.hashnode.dev/
