@@ -35,13 +35,6 @@ To highlight a few:
  <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="">
  <img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify" />
 
----
-
- <h3>Learning</h3>
-  
-  <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes"><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
-
-
 <!-- ---
 
 <br>
@@ -67,9 +60,3 @@ To highlight a few:
 [medium]: https://oluwaponnle.hashnode.dev/
 
 <br>
-
----
-
-Have a Great Day!
-
-⭐️ From [Onuchukwu Adebayo](https://github.com/adebay8)
