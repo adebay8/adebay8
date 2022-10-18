@@ -4,8 +4,17 @@
 - 📚 Currently learning computer science in-depth at [open-source university](https://github.com/ForrestKnight/open-source-cs).
 - 🤔 Exploring new technologies and software solutions.
 - ✍️ Future Goals: Creating globally required software solutions and building creative software infrastuctures.
-- ⚡ Love watching and playing football
-- 👯 I’m looking to collaborate with the open source community to make our tech spaces more inclusive and accessibile.
+
+---
+
+<h3>Projects:</h3>
+
+You can have a look at all my previous projects here - https://v1.ponnle.xyz/portfolio
+<br/>
+<br/>
+To highlight a few:
+- [Rydes](https://rydes.ponnle.xyz): A ride sharing application quite similar to uber (still in development)
+- [Bankr](https://bankr.netlify.app): Wallet as a service
 
 ---
 
