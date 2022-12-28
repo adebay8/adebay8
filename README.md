@@ -2,7 +2,7 @@
 #### I'm an engineering graduate and Software Engineer
 - 💼 Currently building elegant and efficient web applications using React, Vue, Laravel and NodeJs.
 - 📚 Currently learning computer science in-depth at [open-source university](https://github.com/ForrestKnight/open-source-cs).
-- 🤔 A few projects I have worked on - [Hidevdeck](https://hivedeck.com), [TaskProx](https://taskprox.com), [Twisted Food](https://twistedfood.co.uk).
+- 🤔 A few projects I have worked on - [Hidevdeck](https://hivedeck.com){:target="_blank"}, [TaskProx](https://taskprox.com), [Twisted Food](https://twistedfood.co.uk).
 - ✍️ Future Goals: Creating globally required software solutions and building creative software infrastuctures.
 
 ---
