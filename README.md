@@ -2,19 +2,8 @@
 #### I'm an engineering graduate and Software Engineer
 - 💼 Currently building elegant and efficient web applications using React, Vue, Laravel and NodeJs.
 - 📚 Currently learning computer science in-depth at [open-source university](https://github.com/ForrestKnight/open-source-cs).
-- 🤔 Exploring new technologies and software solutions.
+- 🤔 A few projects I have worked on - [Hidevdeck](https://hivedeck.com), [TaskProx](https://taskprox.com), [Twisted Food](https://twistedfood.co.uk).
 - ✍️ Future Goals: Creating globally required software solutions and building creative software infrastuctures.
-
----
-
-<h3>Projects:</h3>
-
-You can have a look at all my previous projects here - https://v1.ponnle.xyz/portfolio
-<br/>
-<br/>
-To highlight a few:
-- [Rydes](https://rydes.ponnle.xyz): A ride sharing application quite similar to uber (still in development)
-- [Bankr](https://bankr.netlify.app): Wallet as a service
 
 ---
 
@@ -54,7 +43,7 @@ To highlight a few:
 
 <br/>
 
-[website]: https://v1.ponnle.xyz
+[website]: https://ponnle.xyz
 [twitter]: https://twitter.com/oluwaponnle
 [linkedin]: https://www.linkedin.com/in/onuchukwu-adebayo/
 [medium]: https://oluwaponnle.hashnode.dev/
