@@ -19,10 +19,6 @@
  <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React">
   <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs">
  <img height="50" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="Nextjs">
- <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git">
- <img height="50" src="https://www.vectorlogo.zone/logos/webflow/webflow-ar21.svg" alt="webflow">
- <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="">
- <img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify" />
 
 <!-- ---
 
