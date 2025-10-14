@@ -1,8 +1,7 @@
 ### Hi, I'm Onuchukwu👋 
 #### I'm an engineering graduate and Software Engineer
-- 💼 Currently building elegant and efficient web applications using React, Vue, Laravel and NodeJs.
+- 💼 Currently building data driven web applications using mostly Python, and JavaScript.
 - 📚 Currently learning computer science in-depth at [open-source university](https://github.com/ForrestKnight/open-source-cs).
-- 🤔 A few projects I have worked on - [Hidevdeck](https://hivedeck.com), [RealtyProx](https://realtyprox.co), [Twisted Food](https://twistedfood.co.uk).
 - ✍️ Future Goals: Creating globally required software solutions and building creative software infrastuctures.
 
 ---
